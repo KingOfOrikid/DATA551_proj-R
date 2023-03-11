@@ -7,7 +7,7 @@ library(plotly)
 library(dplyr)
 
 app <- Dash$new(external_stylesheets = dbcThemes$BOOTSTRAP)
-murder<-read.csv('C:\\Users\\Yuxin Chen\\Desktop\\processed_data.csv')
+murder<-read.csv('processed_data.csv')
 WEAPON <- unique(murder$Weapon)
 STATE <- unique(murder$State)
 available_indicators <- WEAPON
