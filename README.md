@@ -1,4 +1,4 @@
-# Watch out for homicides :oncoming_police_car::ambulance:(Dashboard for Homicide Cases in America) 
+# Watch out for homicides :oncoming_police_car::ambulance:(Dashboard for Homicide Cases in America) (R version)
 
 **Heroku**: [xxx](xxxx)
 
@@ -79,7 +79,12 @@ $ Rscript src/app.R
 
 Open the link displayed on the terminal.                     
                       
-[demo.gif](xxxx)
+[screenshot of Tab1: Interactive Map - 1](xxxx)
+[screenshot of Tab1: Interactive Map - 2](xxxx)
+[screenshot of Tab1: Interactive Map - 3](xxxx)
+
+[screenshot of Tab2: Monthly Record Graph - 1](xxxx)
+[screenshot of Tab2: Monthly Record Graph - 2](xxxx)
 
 ## How to Contribute
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/KingOfOrikid/DATA551_proj/blob/main/CODE_OF_CONDUCT.md).
