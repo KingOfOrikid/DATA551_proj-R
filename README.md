@@ -83,7 +83,8 @@ Open the link displayed on the terminal.
 <p align="center">
 Figure1: Interactive Map - 1
 </p>           
-![screenshot of Tab1: Interactive Map - 2](doc/tab1_2.png)            
+                            
+<div align=center><img src="doc/tab1_2.png"></div>     
 <p align="center">
 Figure2: Interactive Map - 2
 </p>              
