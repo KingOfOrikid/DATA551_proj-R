@@ -80,15 +80,25 @@ $ Rscript src/app.R
 Open the link displayed on the terminal.                     
                       
 ![screenshot of Tab1: Interactive Map - 1](doc/tab1_1.png)            
-<center>Figure1: Interactive Map - 1</center>           
-![screenshot of Tab1: Interactive Map - 2](doc/tab1_2.png)                 
-<center>Figure1: Interactive Map - 2</center>             
-![screenshot of Tab1: Interactive Map - 3](doc/tab1_3.png)                   
-<center>Figure1: Interactive Map - 3</center>             
-![screenshot of Tab2: Monthly Record Graph - 1](doc/tab2_1.png)                    
-<center>Figure1: Monthly Record Graph - 1</center>             
+<p align="center">
+Figure1: Interactive Map - 1
+</p>           
+![screenshot of Tab1: Interactive Map - 2](doc/tab1_2.png)            
+<p align="center">
+Figure2: Interactive Map - 2
+</p>              
+![screenshot of Tab1: Interactive Map - 3](doc/tab1_3.png)             
+<p align="center">
+Figure3: Interactive Map - 3
+</p>       
+![screenshot of Tab2: Monthly Record Graph - 1](doc/tab2_1.png)           
+<p align="center">
+Figure4: Monthly Record Graph - 1
+</p>                       
 ![screenshot of Tab2: Monthly Record Graph - 2](doc/tab2_2.png)                   
-<center>Figure1: Monthly Record Graph - 2</center>                       
+<p align="center">
+Figure5: Monthly Record Graph - 2
+</p>                      
 
 ## How to Contribute
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/KingOfOrikid/DATA551_proj/blob/main/CODE_OF_CONDUCT.md).
