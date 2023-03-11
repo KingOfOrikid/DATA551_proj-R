@@ -24,5 +24,6 @@ Our dashboard is spread across 2 tabs of content.
 * Unify and beautify page style
 
 # Features Not Yet Implemented
+* Did not yet add Sankey graph to visualize distribution of attacker-victim relationships.
 
 #  Brief thoughts on implementing the dashboard in R
