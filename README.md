@@ -87,16 +87,19 @@ Figure1: Interactive Map - 1
 <div align=center><img src="doc/tab1_2.png"></div>     
 <p align="center">
 Figure2: Interactive Map - 2
-</p>              
-![screenshot of Tab1: Interactive Map - 3](doc/tab1_3.png)             
+</p>            
+                                 
+<div align=center><img src="doc/tab1_3.png"></div>            
 <p align="center">
 Figure3: Interactive Map - 3
 </p>       
-![screenshot of Tab2: Monthly Record Graph - 1](doc/tab2_1.png)           
+                        
+<div align=center><img src="doc/tab2_1.png"></div>                        
 <p align="center">
 Figure4: Monthly Record Graph - 1
-</p>                       
-![screenshot of Tab2: Monthly Record Graph - 2](doc/tab2_2.png)                   
+</p>     
+
+<div align=center><img src="doc/tab2_2.png"></div>                               
 <p align="center">
 Figure5: Monthly Record Graph - 2
 </p>                      
