@@ -1,6 +1,6 @@
 # Watch out for homicides :oncoming_police_car::ambulance:(Dashboard for Homicide Cases in America) (R version)
 
-**Heroku**: [xxx](xxxx)
+**Heroku**: [HomicideDashboard](https://data551-heroku-deployment.herokuapp.com)
 
 ## Welcome!
 
